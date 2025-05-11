@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://onerciertil.mortoe.com/onerciertil.txt
